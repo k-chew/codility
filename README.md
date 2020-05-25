@@ -1,7 +1,7 @@
 # Codility
 These are my solutions to the Codility training problems.
 
-I am learning how to solve coding problems as well as familiarizing myself with Git and Github.
+Learning how to solve algorithmic problems.
 
 Language: Python3
 
