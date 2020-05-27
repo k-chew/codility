@@ -1,8 +1,7 @@
 # Codility
-These are my solutions to the Codility training problems.
+These are my solutions to various training code problems.
 
-Learning how to solve algorithmic problems.
-
-Language: Python3
+Languages: Python3, C
 
 https://app.codility.com/programmers/lessons
+https://leetcode.com/problems
