@@ -36,6 +36,8 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
           resultPointer->next = malloc(sizeof(struct ListNode));
           resultPointer = resultPointer->next;
         } else {
+          // we have finished adding both numbers
+          // however, remember that we might have a carry from the last addition
           if (carry == 1) {
             resultPointer->next = malloc(sizeof(struct ListNode));
             resultPointer->next->val = 1;
